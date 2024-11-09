@@ -10,6 +10,8 @@ Mentor:Neela Santhosh
 
 OVERVIEW OF PROJECT
 
+PROJECT NAME:Tic Tac game with AI
+
 Tic-tac-toe Game project is written in Python. The project file contains python script (Ticky.py) and image files. This is a simple GUI based strategy board game which is very easy to understand and use. Talking about the gameplay, all the playing rules are the same just like we play in real time tic-tac-toe. This is a simple multiplayer game with AI.
 
 After starting the game, a GUI board appears, other rules are the same. First, the player has to select whether the user wants to play with human or AI. It contains the Minimax algorithm; which is a decision rule used for a two-player game. A simple 2D GUI is provided for easy gameplay. The gameplay design is so simple that user won’t find it difficult to use and understand.

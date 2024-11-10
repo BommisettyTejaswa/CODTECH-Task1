@@ -10,7 +10,7 @@ Mentor:Neela Santhosh
 
 OVERVIEW OF PROJECT
 
-PROJECT NAME:Tic Tac game with AI
+PROJECT NAME:Tic Tac Tow game with AI
 
 Tic-tac-toe Game project is written in Python. The project file contains python script (Ticky.py) and image files. This is a simple GUI based strategy board game which is very easy to understand and use. Talking about the gameplay, all the playing rules are the same just like we play in real time tic-tac-toe. This is a simple multiplayer game with AI.
 
